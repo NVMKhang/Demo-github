@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Quần áo shop</title>
+	<link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+       <div id="container">
+        <img src="anh/logo.jpg">
+
+       </div>
+
+       <div id="menu_top">
+           <ul>
+               <li><a href="#" title="Trang Chủ">Trang Chủ</a></li>
+               <li><a href="#" title="Bão Sale">Bão Sale</a></li>
+               <li><a href="#" title="Giới Thiệu">Giới Thiệu</a></li>
+               <li><a href="#" title="Bộ Sưu Tập">Bộ Sưu Tập</a></li>
+               <li><a href="#" title="Khuyến Mãi">Khuyến Mãi</a></li>
+               <li><a href="#" title="Sản Phẩm">Sản Phẩm</a></li>
+               <li><a href="#" title="Hệ Thống Cửa Hàng">Hệ Thống Cửa Hàng</a></li>
+               <li><a href="#" title="Liên Hệ">Liên Hệ</a></li>
+           </ul>    
+       </div>
+
+       <div id="banner">
+       </div>
+
+       <div id="main">
+           <div id="left">
+                <div class="menu_left">
+                    <h3>Sản Phẩm</h3>
+                    <ul>
+                        <li><a href="#">Áo Nam</a>
+                           <ul>
+                              <li><a href="#">Áo thun</a></li>
+                              <li><a href="#">Áo sơ mi</a></li>
+                              <li><a href="#">Áo khoác</a></li>
+                              <li><a href="#">Áo PoLo</a></li>
+                              <li><a href="#">Áo Hoodie</a></li>
+                           </ul>
+                        </li> 
+                        <li><a href="#">Quần Nam</a>
+                           <ul>
+                              <li><a href="#">Quần âu</a></li>
+                              <li><a href="#">Quần Jean</a></li>
+                              <li><a href="#">Quần Kaki</a></li>
+                              <li><a href="#">Quần jogger</a></li>
+                              <li><a href="#">Quần short</a></li>
+                           </ul>
+                        </li>
+                        <li><a href="#">Phụ Kiện Nam</a>
+                           <ul>
+                              <li><a href="#">Balo</a></li>
+                              <li><a href="#">Túi Chéo</a></li>
+                              <li><a href="#">Ví Da</a></li>
+                              <li><a href="#">Mũ </a></li>
+                              <li><a href="#">Kính</a></li>
+                           </ul>
+                       </li>
+                   </ul>
+               </div>
+           </div>
+           <div id="right">
+               <div id="products">
+                   <h3 class="header">Sản phẩm bán chạy nhất</h3>
+                   <div class="item">
+                       <h3 class="productsName">Áo thun tay lở</h3>
+                       <img class="productsImg" src="anh/aotaylo.png" width="300">
+                       <p class="productsPrice">Giá:150000 VND</p>
+                       <a class="productsDetall" href="#">Chi Tiết</a>
+                       <a class="productsDM" href="#">Đặt Mua</a>
+                   </div>
+                   <div class="item">
+                       <h3 class="productsName">Áo thun </h3>
+                       <img class="productsImg" src="anh/Ảnh chụp màn hình 2021-06-12 090501.png" width="300">
+                       <p class="productsPrice">Giá 180,000 VND</p>
+                       <a class="productsDetall" href="#">Chi Tiết</a>
+                       <a class="productsDM" href="#">Đặt Mua</a>
+                    </div>
+                    <div class="item">
+                       <h3 class="productsName">Quần Jean</h3>
+                       <img class="productsImg" src="anh/quanjean.png" width="300">
+                       <p class="productsPrice">Giá:250,000 VND</p>
+                       <a class="productsDetall" href="#">Chi Tiết</a>
+                       <a class="productsDM" href="#">Đặt Mua</a>
+                    </div>
+                    <div class="item">
+                       <h3 class="productsName">Quần Tây </h3>
+                       <img class="productsImg" src="anh/quantay.png" width="300">
+                       <p class="productsPrice">Giá:300,000 VND</p>
+                       <a class="productsDetall" href="#">Chi Tiết</a>
+                       <a class="productsDM" href="#">Đặt Mua</a>
+                    </div>
+               </div>
+           </div>
+        </div>
+        <div id="footer">
+            <p>website: <b><a href="file:///D:/hoc%20tap/Bailam/html.html">ShopDanhĐệ</a></b></p>
+           <p>Địa Chỉ: <b>Vĩnh Hưng,Long An</b></p>
+        </div>
+</body>
+</html>
